@@ -1,0 +1,25 @@
+.btn-p
+{
+	background-color: #8B5C7E;
+    color: #fff;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.btn-q
+{
+	background-color: rgba(209,154,152,0.6);
+    color: #fff;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.title li
+{
+	float:left;
+	margin-right:1%;
+	
+}
+.title{
+	list-style:none;
+}
